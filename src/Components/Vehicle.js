@@ -16,7 +16,7 @@ const Vehicle = (props) => {
             </div>
             <div className="vehicleInfo">
                 {info ?
-                    (<a href="https://www.billymckinnon.com" target="_blank" rel="noreferrer" >F<span>i</span>nd Out Here 😜</a>)
+                    (<a href="https://www.billymckinnon.com" target="_blank" rel="noreferrer">F<span>i</span>nd Out Here 😜</a>)
                     :
                     (<></>)
                 }
