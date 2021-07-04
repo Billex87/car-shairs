@@ -35,9 +35,6 @@ Check out [this link](https://car-shair.netlify.app/) to see the deployed versio
 * Just to show, the app renders beautifully on all devices, in this picture we are using an iPhone X screen.
 
 
-## Challenges, More Ideas, Etc.
-
-I honestly would love to implement the menu popping down when you scroll that is currently on the Shair Web App. Due to the time constraints, I decided to forego that functionality. I have also started implementing the slider for the year. It is working but I ran into the challenge of distinguishing if the slider is in the default value or if it is actually a part of the query.
 
 If I had more time, I would also create automated tests using Cypress and Jest.
 
