@@ -1,5 +1,5 @@
 Thanks for viewing my project.
-I did my best to use what was on your existing website, using the green `**i**` everywhere I could, and I used your color pallette for the greens, the greys and whites as much as I could.
+I did my best to use what was on your existing website, using the green `i` everywhere I could, and I used your color pallette for the greens, the greys and whites as much as I could.
 
 I have sent you the zip file for ease.
 Simply open the file on your favourite code editor, run `npm i` to install dependencies.
