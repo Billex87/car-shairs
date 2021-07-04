@@ -12,6 +12,10 @@ textarea {
 	border-color: #95c93d;
 }
 
+select {
+	height: 10rem;
+}
+
 .try {
 	display: flex;
 	justify-content: center;
@@ -117,7 +121,7 @@ label {
 .container {
 	display: flex;
 	flex-direction: column;
-	height: 50px;
+	height: 60px;
 	font-weight: bold;
 }
 
