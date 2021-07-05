@@ -33,7 +33,7 @@ select {
 .landing {
 	position: relative;
 	background: url('shair.jpg') no-repeat center center/cover;
-	height: 80vh;
+	height: 79vh;
 	padding-top: 0.1%;
 }
 
@@ -286,6 +286,9 @@ a {
 	h1 {
 		font-size: 2.5rem;
 		letter-spacing: 1rem;
+	}
+	.landing {
+		height: 74vh !important;
 	}
 }
 
