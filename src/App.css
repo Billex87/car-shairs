@@ -211,7 +211,7 @@ li {
 
 input[type='range'] {
 	overflow: hidden;
-	-webkit-appearance: none;
+	-webkit-appearance: auto;
 	background-color: #95c93d;
 	height: 100%;
 }
